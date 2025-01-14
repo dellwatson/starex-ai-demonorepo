@@ -4,6 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/dellwatson/starex-ai-backend-demo
-[submodule "ai-agent"]
-	path = ai-agent
+[submodule "agent"]
+	path = agent
 	url = https://github.com/dellwatson/starex-ai-agent-demo
