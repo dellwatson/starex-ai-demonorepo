@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/dellwatson/starex-ai-frontend-demo
+[submodule "backend"]
+	path = backend
+	url = https://github.com/dellwatson/starex-ai-backend-demo
+[submodule "ai-agent"]
+	path = ai-agent
+	url = https://github.com/dellwatson/starex-ai-agent-demo
